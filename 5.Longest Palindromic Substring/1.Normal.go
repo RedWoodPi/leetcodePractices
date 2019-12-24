@@ -1,4 +1,4 @@
-package ___Longest_Palindromic_Substring
+package __Longest_Palindromic_Substring
 
 import "fmt"
 

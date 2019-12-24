@@ -1,4 +1,4 @@
-package ___String_to_Integer
+package __String_to_Integer
 
 import (
 	"fmt"

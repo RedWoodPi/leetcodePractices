@@ -1,4 +1,4 @@
-package ___Palindrome_Number
+package __Palindrome_Number
 
 import (
 	"fmt"
